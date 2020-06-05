@@ -1,5 +1,6 @@
 ﻿CREATE TABLE [dbo].[Sales] (
     [TotalDue]    DECIMAL (18, 4) NULL,
+    /* gewenst */
     [SubTotal]    DECIMAL (18, 4) NULL,
     [TaxAmt]      DECIMAL (18, 4) NULL,
     [Freight]     DECIMAL (18, 4) NULL,
